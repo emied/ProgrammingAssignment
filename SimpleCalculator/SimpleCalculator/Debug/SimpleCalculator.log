@@ -1,0 +1,6 @@
+﻿  SimpleCalculator.cpp
+D:\emil\SimpleCalculator\SimpleCalculator\SimpleCalculator.cpp(15,2): warning C4091: 'static ': ignored on left of 'Operators' when no variable is declared
+D:\emil\SimpleCalculator\SimpleCalculator\SimpleCalculator.cpp(28,39): warning C4042: 'fixString': has bad storage class
+D:\emil\SimpleCalculator\SimpleCalculator\SimpleCalculator.cpp(150,20): warning C4018: '<': signed/unsigned mismatch
+D:\emil\SimpleCalculator\SimpleCalculator\SimpleCalculator.cpp(198,39): warning C4042: 'fixString': has bad storage class
+  SimpleCalculator.vcxproj -> D:\emil\SimpleCalculator\Debug\SimpleCalculator.exe

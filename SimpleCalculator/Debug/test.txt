@@ -1,0 +1,8 @@
+emil add 8
+emil add emil
+emil subtract 7
+print emil
+johan add 12
+jOhan SubTract 1
+Johan Multiply 2
+print Johan

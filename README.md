@@ -10,8 +10,10 @@ Step 2: Locate the Debug folder path in SimpleCalculator:
 e.g cd \emil\SimpleCalculator\Debug
 
 Step 3: Run program by typing: SimpleCalculator.exe
-Or run with file: SimpleCalculator.exe [path]
 
+Or run with file: SimpleCalculator.exe [path] 
+
+Where [path] is the location to the .txt file.
 
 Assumptions:
 Register names cannot be composed solely of digits (Would cause ambiguity)

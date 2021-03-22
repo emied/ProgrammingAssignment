@@ -86,7 +86,7 @@ int main(int argc, char** argv)
 			if (i == 1 && print == false) { operatorSign = toLower(word); }
 
 			//Register 2
-			if (i == 2) { registerOrValue = word; }
+			if (i == 2) { registerOrValue = toLower(word); }
 			i++;
 		}
 
